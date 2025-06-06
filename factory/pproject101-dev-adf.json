@@ -1,0 +1,9 @@
+{
+	"name": "pproject101-dev-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ef6c38f1-61f5-41e6-872e-030fdd67f379",
+		"tenantId": "81a94a08-46ba-4eea-a2f4-99b3ebb63aa2"
+	}
+}
